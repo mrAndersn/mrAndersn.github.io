@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Themes</title>
-    <link>http://hugo.spf13.com/</link>
-    <description>Recent content on Hugo Themes</description>
+    <title>Blojec</title>
+    <link>https://mrandersn.github.io/</link>
+    <description>Recent content on Blojec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2008 - 2014, Steve Francia; all rights reserved.</copyright>
     <lastBuildDate>Wed, 06 Jul 2016 01:41:47 +0300</lastBuildDate>
-    <atom:link href="http://hugo.spf13.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mrandersn.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello</title>
-      <link>http://hugo.spf13.com/post/Hello/</link>
+      <link>https://mrandersn.github.io/post/Hello/</link>
       <pubDate>Wed, 06 Jul 2016 01:41:47 +0300</pubDate>
       
-      <guid>http://hugo.spf13.com/post/Hello/</guid>
+      <guid>https://mrandersn.github.io/post/Hello/</guid>
       <description>&lt;p&gt;Hi, that&amp;rsquo;s my first post. Wait for updates&lt;/p&gt;
 </description>
     </item>
